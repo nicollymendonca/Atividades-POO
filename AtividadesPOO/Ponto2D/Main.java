@@ -6,5 +6,5 @@ public static void main(String[] args) {
     System.out.println("Essa é a distância do ponto 2° para a origem: " + ponto2.distanciaOrigem()); 
     
     double distanciaEntrePontos = ponto1.distancia(ponto2);
-    System.out.println("Essa distância entre ponto 1° e ponto 2°: " + distanciaEntrePontos);
+    System.out.println("Essa distância entre o ponto 1° e ponto 2°: " + distanciaEntrePontos);
 }
